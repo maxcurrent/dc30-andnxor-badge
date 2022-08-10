@@ -1,6 +1,6 @@
 # dc30-andnxor-badge
 
-[[rtfm.md]]
+[RTFM](https://github.com/maxcurrent/dc30-andnxor-badge/blob/main/rtfm.md)
 
 ## file listing
 
